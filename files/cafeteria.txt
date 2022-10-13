@@ -1,0 +1,5 @@
+monday cafeteria: Fish shoup
+tuesday cafeteria: Chicken and noodles
+wednesday cafeteria: beans and rice
+thursday cafeteria: Potatos and gravy
+friday cafeteria: Pizza
