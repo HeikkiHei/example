@@ -1,0 +1,6 @@
+monday intro to cs: Hello world
+tuesday intro to cs: A class can implement an interface
+tuesday intro to cs: Turing tests are hard to pass
+wednesday intro to cs: A cs program has to have a main method
+wednesday intro to cs: The internet is a big place
+thursday console: The command line is a black box
